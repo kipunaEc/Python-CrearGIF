@@ -7,4 +7,5 @@ Este repositorio contiene una carpeta con imágenes y un script.py para crear un
 Documentación escrita
 https://kipunaec.com/crear-un-gif-con-imagenes-python-imageio/
 
-[Comprehensive Markdown Crash Course](https://youtu.be/Div2G8Su6r4)
+[![Alt text](https://img.youtube.com/vi/Div2G8Su6r4/0.jpg)](https://www.youtube.com/watch?v=Div2G8Su6r4)
+
